@@ -1,0 +1,13 @@
+{
+  "name": "Pocket Alphabets",
+  "description": "Kids can study letters with the examples.",
+  "launch_path": "/index.html",
+  "icons": {
+   "128": "/icon.png"
+  },
+  "developer": {
+    "name": "Rigin Oommen",
+    "url": "http://www.facebook.com/riginoommen"
+  },
+  "default_locale": "en"
+}
